@@ -1,6 +1,6 @@
 <h1>ExpNo 6 : Implement Minimax Search Algorithm for a Simple TIC-TAC-TOE game</h1> 
-<h3>Name: VARSHA A </h3>
-<h3>Register Number/Staff Id: 212223220121 </h3>
+<h3>Name: VIGNESH V </h3>
+<h3>Register Number/Staff Id: 212223110062 </h3>
 <H3>Aim:</H3>
 <p>
     Implement Minimax Search Algorithm for a Simple TIC-TAC-TOE game
